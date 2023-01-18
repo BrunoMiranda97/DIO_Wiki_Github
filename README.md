@@ -14,4 +14,4 @@ Tecnologias Usadas
 - JavaScript
 - React
 - Styled Components
-- API
+- API Rest
