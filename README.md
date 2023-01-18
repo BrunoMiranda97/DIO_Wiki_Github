@@ -11,8 +11,6 @@ Nos foi proposto que criássemos uma wiki com os nossos repositórios, onde o us
 Tecnologias Usadas
 
 - HTML
-- TSX
-- Typescript
+- JavaScript
 - React
 - Styled Components
-- Axios
