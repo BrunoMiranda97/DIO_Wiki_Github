@@ -8,7 +8,7 @@ Nos foi proposto que criássemos uma wiki com os nossos repositórios, onde o us
 
 ----
 
-🔧 Tecnologias Usadas
+Tecnologias Usadas
 
 - HTML
 - TSX
